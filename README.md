@@ -11,4 +11,4 @@
 [Portfolio web](https://bruno-lanzi.github.io/mi-portfolio/MIPORFOLIO/inicio.html)
 
 ## Ejemplo en vivo
-[https://bruno-lanzi.github.io/proyectofinal/](https://bruno-lanzi.github.io/proyectofinal/)
+[https://bruno-lanzi.github.io/proyectofinal/proyectofinal/cv.html](https://bruno-lanzi.github.io/proyectofinal/proyectofinal/cv.html)
